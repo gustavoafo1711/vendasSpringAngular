@@ -1,8 +1,6 @@
 package com.gustavo.vendasSpringAngular.model.entity;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
